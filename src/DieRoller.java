@@ -46,6 +46,7 @@ public class DieRoller {
             {
                 done = true;
             }
-        }while(!done);
+        }
+        while(!done);
     }
 }
