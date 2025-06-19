@@ -1,7 +1,7 @@
-public class Task1 {
+public class Task2 {
     public static void main(String[] args)
     {
-        for (int i = 0; i <= 30; i++)
+        for (int i = 30; i >= 1; i--)
         {
             System.out.print(" " + i + " ");
         }
