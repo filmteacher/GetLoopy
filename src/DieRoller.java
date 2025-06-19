@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class DieRoller {
     public static void main(String[] args)
     {
-
         boolean done = false;
 
         do
